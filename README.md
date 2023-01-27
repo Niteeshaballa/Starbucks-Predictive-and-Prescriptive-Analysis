@@ -4,7 +4,7 @@ Analyzed the Starbucks dataset in order to help Starbucks make better decisions 
 
 Following problems were identified in the sample dataset based on the research.<br>
 
-High prices with no customer rewards.<br>
+-High prices with no customer rewards.<br>
 -Multiple branches within small geographical radius.<br>
 -The use of semi-automated machines instead of fully automated machines eventually lost the brand's authenticity.<br>
 -Lack of hospitality training to employees.
